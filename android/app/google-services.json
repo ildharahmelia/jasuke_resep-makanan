@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482283725611",
+    "project_id": "resep-dcd54",
+    "storage_bucket": "resep-dcd54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482283725611:android:9f6b708773b7811ffc9b6e",
+        "android_client_info": {
+          "package_name": "com.example.resep_makanan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS2aGmNg65JjWYQUdsL2mD_mPG3ptYyFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
